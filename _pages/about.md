@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: - Writer - Director - Performer - Educator - 
+subtitle: Writer, Director, Performer, Educator
 
 profile:
   align: right
