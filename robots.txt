@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://k0nr.github.io/customranch//sitemap.xml
+Sitemap: https://customranch.org/sitemap.xml
