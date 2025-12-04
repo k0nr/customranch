@@ -27,6 +27,6 @@ latest_posts:
 
 I am a theater maker/arts worker/educator based in Chicago. Currently I am the Artistic Director of [The Neo-Futurists](https://www.neofuturists.org/), where I have created and premiered new work since 2018.
 
-My primary practice is ensemble-generated new works rooted in the lived experiences of the performers. I emphasize movement, social engagement, and live music to create dynamic, provocative experiences.
+My primary practice is ensemble-generated new works rooted in the lived experiences of the performers. I emphasize movement, social engagement, and live music to create dynamic, provocative experiences. 
 
 As a committed DIY creative, I also work in film, music, photography, digital design, and print.
