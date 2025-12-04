@@ -36,9 +36,35 @@
 - title: Selected Writing Credits
   type: time_table
   contents:
-    - title: HANGING JOE BIDEN
-      year: 2024
-      description: Head writer, director, performer. The Neo-Futurist Theater.
+
+  - title: THE INFINITE WRENCH
+    year: 2018 - present
+    description: 250+ short works spanning monologue, movement, music, installation and more.
+
+
+  - title: HANGING JOE BIDEN
+    year: 2024
+    description: Head writer, director, performer. The Neo-Futurist Theater.
+
+  - title: The Neo-Futurists Sell Out
+    year: 2023
+    description: Head writer, performer. The Neo-Futurist Theater.
+
+  - title: NOW SING THE NAMES OF ALL THE INSTITUTIONS WITH WHICH YOU HAVE AN ONGOING FINANCIAL RELATIONSHIP.
+    year: 2019
+    description: Dir. Shannon Knapp, Non-State Actors
+
+  - title: FUCK DEATH (global warming play
+    year: 2018
+    description: Dir. Aaron Arbiter
+
+  - title: Aero-Plane! A crisis of extraordinary gravity OR how to die in style
+    year: 2015
+    description: Dir. Jordan Walsh
+
+  - title: THE HUNGER ARTIST
+    year: 2015
+    description: Dir. Jordan Walsh
 
 - title: Teaching
   type: time_table
