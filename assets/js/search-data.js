@@ -420,10 +420,15 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/02_MyLadysFeet/";
             },},{id: "projects-hanging-joe-biden-on-the-wall-in-the-hall",
-          title: 'Hanging Joe Biden (on the wall) (in the hall)',
+          title: 'hanging joe biden (on the wall) (in the hall)',
           description: "2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/03_HangingJoeBiden/";
+            },},{id: "projects-the-neo-futurists-sell-out",
+          title: 'the neo-futurists sell out',
+          description: "2023",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/04_SellOut/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
