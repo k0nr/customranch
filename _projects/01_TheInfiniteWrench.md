@@ -2,70 +2,67 @@
 layout: page
 title: the infinite wrench
 description: 2018-present
-img: assets/img/projects/tiw/dan-leaping.jpg
+img: assets/img/projects/tiw/tiw-3.png
 importance: 1
 category: work
 related_publications: false
 ---
 
-I've written over 250 short plays (monologue, scene, puppetry, song, dance, installation) for THE INFINITE WRENCH at The Neo-Futurist Theater. 
+I've written and directed over 250 short plays for _The Infinite Wrench_ at The Neo-Futurist Theater. 
+
+My plays contrast elevated language and movement with the bizarre features of everyday experience. I aim to hook the audience with something silly or recognizable, then subvert our relationship to explore something more demanding. 
+
+In _custom ranch_, two scientists and an audience member dye, mix, and re-bottle ranch dressing. 
 
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-6 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/tiw/tiw-1.png" title="Audience member, JJ, and me mixing a custom ranch." class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-6 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/tiw/tiw-2.png" title="JJ and I mixing the ranch." class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+    
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    <i>custom ranch</i>, 2018. Photo: Joe Mazza.
 </div>
+
+In _Teardrop Sphere Unhappiness_, we use a post-basketball physicality to center ourselves in a hostile zeitgeist of AI, online fascism, and the music of Ed Sheeran. 
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/tiw/tiw-5.png" title="the ensemble gathers around a glowing basketball" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    <i>Teardrop Sphere Unhappiness</i>, 2024. Photo: Anna Gelman.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+_GARY VERSUS BRAD_, my most-performed work, reports on a surreal confrontation I witnessed in my neighborhood, then culminates in a rave with the entire audience. We reject recorded music and provide the soundtrack with our claps, stomps, and voices. 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/tiw/tiw-4.png" title="the audience joins us onstage for a dance party" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    <i>GARY VERSUS BRAD</i>, 2024. Photo: Anna Gelman.
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
 
-{% raw %}
+Throughout my plays I emphasize live music and embodiment as much as possible. When I do incorporate recordings or digital reproduction, I make the technological landscape of the performance intentional and coherent.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/tiw/tiw-0.png" title="the band" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
-```
 
-{% endraw %}
+
+<div class="caption">
+    <i>i am ready for another stimulus check, please</i>, 2021. Photo: Joe Mazza. 
+</div>
+
+Joyful collaboration is at the center of my writing-directing. 
+
