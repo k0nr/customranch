@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hanging Joe Biden (on the wall) (in the hall)
+title: hanging joe biden (on the wall) (in the hall)
 description: 2024
 img: assets/img/projects/biden/biden_small-0.png
 importance: 1
@@ -18,7 +18,7 @@ _HANGING JOE BIDEN (on the wall) (in the hall)_ was an art-criticism/talk-show/c
 </div>
 <div class="caption">Photos: Anna Gelman.</div>
 
-I created individual and collaborative writing exercises to generate the text; we discovered deeply contradictory feelings about our company's traditions, then drew connections through artistic criticism and our personal experiences of the Biden years, most notably the COVID shutdowns. 
+I created individual and collaborative writing exercises to generate the text. We discovered deeply contradictory feelings about our company's traditions, then drew connections through artistic criticism and our personal experiences of the Biden years, most notably the COVID shutdowns. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
