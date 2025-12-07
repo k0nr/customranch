@@ -9,9 +9,9 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+  },{id: "nav-theater",
+          title: "theater",
+          description: "selected stage works",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -409,7 +409,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "projects-the-infinite-wrench",
+          title: 'the infinite wrench',
+          description: "2018-present",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/01_TheInfiniteWrench/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
