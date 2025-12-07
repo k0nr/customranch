@@ -31,6 +31,6 @@ We incorporated the audience into a 65-minute board meeting featuring whiteboard
 
 The cast created songs and experimental soundscapes using tapes, banjo, drum machine, bricks, and more. 
 
-_A stringent and dour critique of capitalism that delivers a positive existential message... to be enjoyed by both capitalists and comrades alike. -NewCity Stage__
+_A stringent and dour critique of capitalism that delivers a positive existential message... to be enjoyed by both capitalists and comrades alike. -NewCity Stage_
 
 _They're not kidding around about the hopelessness of their generation's plight. -Chicago Reader_
