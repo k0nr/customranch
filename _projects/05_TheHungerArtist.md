@@ -8,7 +8,7 @@ category: work
 related_publications: false
 ---
 
-_HANGING JOE BIDEN_ was an art-criticism/talk-show/concert performance culminating in the unveiling of Biden's portrait for the Neo-Futurist Theater's Hall of Presidents. I served as lead writer, director, and performer. 
+Director Jordan Walsh and I co-wrote this adaptation of Kafka's short story for performances in Cleveland and Chicago.  
 
 
 <div class="row">
@@ -18,7 +18,7 @@ _HANGING JOE BIDEN_ was an art-criticism/talk-show/concert performance culminati
 </div>
 <div class="caption">Photos: Anna Gelman.</div>
 
-I created individual and collaborative writing exercises to generate the text. We discovered deeply contradictory feelings about our company's traditions, then drew connections through artistic criticism and our personal experiences of the Biden years, most notably the COVID shutdowns. 
+We set the main plot against the introduction of radio broadcasting and the tawdry reality of professional wrestling. I also played the title character. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

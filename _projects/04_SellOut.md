@@ -22,11 +22,15 @@ We incorporated the audience into a 65-minute board meeting featuring whiteboard
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/sellout/sellout-small-2.png" title="running between stage and house" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/sellout/sellout-small-2.png" title="the band" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/sellout/sellout-small-0.png" title="concluding movement with Jessica Anne" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/sellout/sellout-small-0.png" title="neil breaking the 4th wall" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 The cast created songs and experimental soundscapes using tapes, banjo, drum machine, bricks, and more. 
+
+_A stringent and dour critique of capitalism that delivers a positive existential message... to be enjoyed by both capitalists and comrades alike. -NewCity Stage__
+
+_They're not kidding around about the hopelessness of their generation's plight. -Chicago Reader_
