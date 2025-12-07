@@ -429,6 +429,11 @@ ninja.data = [{
           description: "2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/04_SellOut/";
+            },},{id: "projects-hanging-joe-biden-on-the-wall-in-the-hall",
+          title: 'hanging joe biden (on the wall) (in the hall)',
+          description: "2024",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/05_TheHungerArtist/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
