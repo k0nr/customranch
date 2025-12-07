@@ -414,11 +414,16 @@ ninja.data = [{
           description: "2018-present",
           section: "Projects",handler: () => {
               window.location.href = "/projects/01_TheInfiniteWrench/";
+            },},{id: "projects-what-of-my-lady-39-s-feet",
+          title: 'what of my lady&amp;#39;s feet?',
+          description: "2025",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/02_MyLadysFeet/";
             },},{id: "projects-hanging-joe-biden-on-the-wall-in-the-hall",
           title: 'Hanging Joe Biden (on the wall) (in the hall)',
           description: "2024",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/02_HangingJoeBiden/";
+              window.location.href = "/projects/03_HangingJoeBiden/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
