@@ -16,7 +16,7 @@ I was lead writer and a performer on this collaged, ensemble-created interrogati
     </div>
 </div>
 
-<div class="caption">All photos Anna Gelman.</div>
+<div class="caption">Photos: Anna Gelman.</div>
 
 We incorporated the audience into a 65-minute board meeting featuring whiteboarding, swivel chair choreography, and rock & roll. The central symbol of the piece was my childhood house; its sale and eventual fate as a corporate-owned rental reflected national economic decline and my family's slow fragmentation. 
 
@@ -31,6 +31,6 @@ We incorporated the audience into a 65-minute board meeting featuring whiteboard
 
 The cast created songs and experimental soundscapes using tapes, banjo, drum machine, bricks, and more. 
 
-_A stringent and dour critique of capitalism that delivers a positive existential message... to be enjoyed by both capitalists and comrades alike._ -NewCity Stage
+_A stringent and dour critique of capitalism that delivers a positive existential message... to be enjoyed by both capitalists and comrades alike._ - NewCity Stage
 
-_They're not kidding around about the hopelessness of their generation's plight._ -Chicago Reader
+_They're not kidding around about the hopelessness of their generation's plight._ - Chicago Reader

@@ -16,7 +16,7 @@ I created _WHAT OF MY LADY'S FEET?_ as part of _Body Bits_, a series of performa
     </div>
 </div>
 
-<div class="caption">All photos Sarah Larson.</div>
+<div class="caption">Photos: Sarah Larson.</div>
 
 In this performance I reacted to genderplay in the film _Shakespeare in Love_ in order to make sense of my own gender embodiment and a fragmented series of romantic relationships. I tasked myself with sprinting repeatedly between the stage and the back of the house to exhaust myself, escape my comfort zone, and physically adapt the gondola scene in the film. 
 

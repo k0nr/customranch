@@ -1,6 +1,6 @@
 ---
 layout: page
-title: hanging joe biden (on the wall) (in the hall)
+title: hanging joe biden
 description: 2024
 img: assets/img/projects/biden/biden_small-0.png
 importance: 1
@@ -8,7 +8,7 @@ category: work
 related_publications: false
 ---
 
-_HANGING JOE BIDEN_ was an art-criticism/talk-show/concert performance culminating in the unveiling of Biden's portrait for the Neo-Futurist Theater's Hall of Presidents. I served as lead writer, director, and performer. 
+_HANGING JOE BIDEN (on the wall) (in the hall)_ was an art-criticism/talk-show/concert performance culminating in the unveiling of Biden's portrait for the Neo-Futurist Theater's Hall of Presidents. I served as lead writer, director, and performer. 
 
 
 <div class="row">
