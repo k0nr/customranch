@@ -4,9 +4,8 @@
     - name: Name
       value: Connor Shioshita Pickett
     - name: Email
-      value: connorpickett@gmail.com
-    - name: Summary
-      value: Writer, director, performer, teacher.
+      value: connorpickett <at> gmail.com
+
 
 - title: Selected Experience
   type: time_table
@@ -33,6 +32,53 @@
         - Create and lead inclusive, innovative writing workshops.
         - Support individual student growth by written, verbal, and group feedback.
 
+
+    
+- title: Teaching
+  type: time_table
+  contents:
+  
+  - title: Writing Rage
+    year: 2025
+    description: StoryStudio Chicago
+    
+  - title: What I Mean to Say (Honest Monologues Under Pressure)
+    year: 2024 - present
+    description: StoryStudio Chicago
+    
+  - title: Open Gym - Risk & Chance
+    year: 2025
+    description: The Neo-Futurist Theater
+    
+  - title: Open Gym - Rage
+    year: 2024
+    description: The Neo-Futurist Theater
+    
+  - title: Tenets of Neo-Futurism
+    year: 2023
+    description: The Cherubs at Northwestern University
+    
+  - title: Intro to Writing & Performing the 2-Minute Play
+    year: 2019 - present
+    description: The Neo-Futurist Theater
+    
+    
+- title: Guest Teaching
+  type: time_table
+  contents:
+  
+  - title: Solo Performance
+    year: 2025
+    description: Heidi Coleman, University of Chicago
+  
+  - title: Fiction Workshop
+    year: 2024
+    description: Sarah Kokernot, Northwestern University
+    
+  - title: Transmedia Performance
+    year: 2022
+    description: Heidi Coleman, University of Chicago
+    
 - title: Selected Writing Credits
   type: time_table
   contents:
@@ -54,7 +100,7 @@
     year: 2019
     description: Dir. Shannon Knapp, Non-State Actors
 
-  - title: FUCK DEATH (global warming play
+  - title: FUCK DEATH (global warming play)
     year: 2018
     description: Dir. Aaron Arbiter
 
@@ -65,15 +111,30 @@
   - title: THE HUNGER ARTIST
     year: 2015
     description: Dir. Jordan Walsh
-
-- title: Teaching
-  type: time_table
-
-- title: Guest Teaching
-  type: time_table
-
-
+    
 - title: Selected Performance Credits
+  type: time_table
+  contents: 
+  
+  - title: SEAGULL
+    year: 2025
+    description: Adapted & directed by Anna Gelman.
+    
+  - title: Elements of Style
+    year: 2023
+    description: Created by Trent Lunsford, The Neo-Futurist Theater.
+    
+  - title: THE INFINITE WRENCH at Tulane University
+    year: 2023
+    description: The Neo-Futurists
+    
+  - title: TRANSPORT
+    year: 2022
+    description: By LC Bernadine, directed by Spencer Huffman.
+    
+  - title: CRAVE
+    year: 2014
+    description: By Sarah Kane, directed by Shannon Knapp. 
 
 - title: Education
   type: time_table
