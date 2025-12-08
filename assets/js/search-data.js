@@ -419,8 +419,8 @@ ninja.data = [{
           description: "2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/02_MyLadysFeet/";
-            },},{id: "projects-hanging-joe-biden-on-the-wall-in-the-hall",
-          title: 'hanging joe biden (on the wall) (in the hall)',
+            },},{id: "projects-hanging-joe-biden",
+          title: 'hanging joe biden',
           description: "2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/03_HangingJoeBiden/";
@@ -429,56 +429,16 @@ ninja.data = [{
           description: "2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/04_SellOut/";
-            },},{id: "projects-hanging-joe-biden-on-the-wall-in-the-hall",
-          title: 'hanging joe biden (on the wall) (in the hall)',
-          description: "2024",
+            },},{id: "projects-tiw-goes-viral",
+          title: 'tiw goes viral',
+          description: "2020-21",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/05_TheHungerArtist/";
-            },},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+              window.location.href = "/projects/05_TIWGV/";
+            },},{id: "projects-the-hunger-artist",
+          title: 'the hunger artist',
+          description: "2014-15",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/06_TheHungerArtist/";
             },},{
         id: 'social-email',
         title: 'email',
