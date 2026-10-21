@@ -5,7 +5,7 @@ description: 2015
 img: assets/img/zines/aeroplane/aeroplane_01.png
 importance: 10
 category: work
-related_publications: true
+related_publications: false
 ---
 
 _Aero-Plane! (the invention of flight) a Crisis of Extraordinary Gravity OR: How to Die in Style_ was a farce I wrote and produced for the 2015 Chicago Fringe Festival. This zine was our promotional come-to-our-show handout. 
