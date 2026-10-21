@@ -1,20 +1,20 @@
 ---
 layout: page
-title: Aero-Plane!
-description: 2015
-img: assets/img/zines/aeroplane/aeroplane_01.png
-importance: 1
+title: Rest Of
+description: 2018
+img: assets/img/zines/restof/climber.png
+importance: 5
 category: work
-related_publications: true
-img: /assets/img/
 ---
 
-_Aero-Plane! (the invention of flight) a Crisis of Extraordinary Gravity OR: How to Die in Style_ was a farce I wrote and produced for the 2015 Chicago Fringe Festival. This zine was our promotional come-to-our-show handout. 
+I made _Rest Of_ to compile some of my favorite TIW plays of 2018. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/zines/aeroplane/cover.png" title="the cover" class="img-fluid rounded z-depth-1" %}
     </div>
+    
+_Rest Of_ is printed on 11x17 paper and folds into a full letter-size zine. 
     
 </div>
 <div class="row">
