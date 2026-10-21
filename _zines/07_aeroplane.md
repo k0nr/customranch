@@ -3,7 +3,7 @@ layout: page
 title: Aero-Plane!
 description: 2015
 img: assets/img/zines/aeroplane/aeroplane_01.png
-importance: 1
+importance: 10
 category: work
 related_publications: true
 ---

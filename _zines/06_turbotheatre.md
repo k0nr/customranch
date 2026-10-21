@@ -3,7 +3,7 @@ layout: page
 title: Turbotheatre: Impossible! #1 of 1
 description: 2015
 img: assets/img/zines/turbotheatre/franzen.png
-importance: 1
+importance: 9
 category: work
 related_publications: true
 ---
@@ -17,9 +17,6 @@ _Turbotheatre: Impossible!_ was a blog of hypothetical scripts. These two became
     
 </div>
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/zines/turbotheatre/ensemble.png" title="ensemble and showtimes" class="img-fluid rounded z-depth-1" %}
-    </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/zines/turbotheatre/inside.png" title="centerfold" class="img-fluid rounded z-depth-1" %}
     </div>
