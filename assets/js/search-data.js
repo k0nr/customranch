@@ -439,6 +439,11 @@ ninja.data = [{
           description: "2014-15",
           section: "Projects",handler: () => {
               window.location.href = "/projects/06_TheHungerArtist/";
+            },},{id: "zines-project-1",
+          title: 'project 1',
+          description: "with background image",
+          section: "Zines",handler: () => {
+              window.location.href = "/zines/1_project/";
             },},{
         id: 'social-email',
         title: 'email',
