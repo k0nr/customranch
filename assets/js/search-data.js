@@ -459,16 +459,11 @@ ninja.data = [{
           description: "2024",
           section: "Zines",handler: () => {
               window.location.href = "/zines/04_you-belong/";
-            },},{id: "zines-aero-plane",
-          title: 'Aero-Plane!',
-          description: "2015",
+            },},{id: "zines-rest-of",
+          title: 'Rest Of',
+          description: "2018",
           section: "Zines",handler: () => {
               window.location.href = "/zines/05_rest-of/";
-            },},{id: "zines-",
-          title: '',
-          description: "",
-          section: "Zines",handler: () => {
-              window.location.href = "/zines/06_turbotheatre/";
             },},{id: "zines-aero-plane",
           title: 'Aero-Plane!',
           description: "2015",
