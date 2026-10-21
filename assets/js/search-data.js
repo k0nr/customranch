@@ -444,11 +444,6 @@ ninja.data = [{
           description: "2015",
           section: "Zines",handler: () => {
               window.location.href = "/zines/09_aeroplane/";
-            },},{id: "zines-aero-plane",
-          title: 'Aero-Plane!',
-          description: "2015",
-          section: "Zines",handler: () => {
-              window.location.href = "/zines/09_aeroplane/";
             },},{
         id: 'social-email',
         title: 'email',
