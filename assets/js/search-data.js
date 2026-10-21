@@ -444,16 +444,11 @@ ninja.data = [{
           description: "2015",
           section: "Zines",handler: () => {
               window.location.href = "/zines/01_poems-i-wrote/";
-            },},{id: "zines-aero-plane",
-          title: 'Aero-Plane!',
-          description: "2015",
+            },},{id: "zines-someone-else-39-s-kitchen",
+          title: 'Someone Else&amp;#39;s Kitchen',
+          description: "2025",
           section: "Zines",handler: () => {
               window.location.href = "/zines/02_kitchen/";
-            },},{id: "zines-aero-plane",
-          title: 'Aero-Plane!',
-          description: "2015",
-          section: "Zines",handler: () => {
-              window.location.href = "/zines/03_TIW-washington/";
             },},{id: "zines-you-belong-here",
           title: 'you belong here',
           description: "2024",
