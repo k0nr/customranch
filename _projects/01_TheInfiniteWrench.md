@@ -64,5 +64,5 @@ Throughout my plays I emphasize live music and embodiment as much as possible. W
     <i>i am ready for another stimulus check, please</i>, 2021. Photo: Joe Mazza. 
 </div>
 
-Joyful collaboration is at the center of my writing-directing. 
+Joyful collaboration is at the center of my writing & directing. 
 
