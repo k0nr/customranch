@@ -464,6 +464,11 @@ ninja.data = [{
           description: "2018",
           section: "Zines",handler: () => {
               window.location.href = "/zines/05_rest-of/";
+            },},{id: "zines-turbotheatre",
+          title: 'Turbotheatre',
+          description: "2015",
+          section: "Zines",handler: () => {
+              window.location.href = "/zines/06_turbotheatre/";
             },},{id: "zines-aero-plane",
           title: 'Aero-Plane!',
           description: "2015",
