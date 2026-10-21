@@ -443,7 +443,37 @@ ninja.data = [{
           title: 'Aero-Plane!',
           description: "2015",
           section: "Zines",handler: () => {
-              window.location.href = "/zines/09_aeroplane/";
+              window.location.href = "/zines/01_poems-i-wrote/";
+            },},{id: "zines-aero-plane",
+          title: 'Aero-Plane!',
+          description: "2015",
+          section: "Zines",handler: () => {
+              window.location.href = "/zines/02_kitchen/";
+            },},{id: "zines-aero-plane",
+          title: 'Aero-Plane!',
+          description: "2015",
+          section: "Zines",handler: () => {
+              window.location.href = "/zines/03_TIW-washington/";
+            },},{id: "zines-aero-plane",
+          title: 'Aero-Plane!',
+          description: "2015",
+          section: "Zines",handler: () => {
+              window.location.href = "/zines/04_you-belong/";
+            },},{id: "zines-aero-plane",
+          title: 'Aero-Plane!',
+          description: "2015",
+          section: "Zines",handler: () => {
+              window.location.href = "/zines/05_rest-of/";
+            },},{id: "zines-",
+          title: '',
+          description: "",
+          section: "Zines",handler: () => {
+              window.location.href = "/zines/06_turbotheatre/";
+            },},{id: "zines-aero-plane",
+          title: 'Aero-Plane!',
+          description: "2015",
+          section: "Zines",handler: () => {
+              window.location.href = "/zines/07_aeroplane/";
             },},{
         id: 'social-email',
         title: 'email',
