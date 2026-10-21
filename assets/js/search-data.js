@@ -447,13 +447,6 @@ ninja.data = [{
           window.open("mailto:%63%6F%6E%6E%6F%72%70%69%63%6B%65%74%74@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-bluesky',
-        title: 'Bluesky',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://bsky.app/profile/customranch.org", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
