@@ -153,6 +153,7 @@ collections:
     output: true
   zines:
     output: true
+    permalink: /zines/:path/
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
