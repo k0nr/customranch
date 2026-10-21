@@ -6,7 +6,6 @@ img: assets/img/zines/turbotheatre/franzen.png
 importance: 1
 category: work
 related_publications: true
-img: /assets/img/
 ---
 
 _Turbotheatre: Impossible!_ was a blog of hypothetical scripts. These two became a quarter-size zine. 
