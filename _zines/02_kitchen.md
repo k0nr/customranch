@@ -3,10 +3,9 @@ layout: page
 title: Someone Else's Kitchen
 description: 2025
 img: assets/img/zines/kitchen/kitchen.png
-importance: 1
+importance: 2
 category: work
 related_publications: true
-img: /assets/img/
 ---
 
 I made _Someone Else's Kitchen_ out of a conversation with ensemble mate Abby Pajakowski. We talked about writing, performance personae, and some recent trends and ideas knocking around _The Infinite Wrench_. 
