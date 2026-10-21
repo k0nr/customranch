@@ -454,9 +454,9 @@ ninja.data = [{
           description: "2015",
           section: "Zines",handler: () => {
               window.location.href = "/zines/03_TIW-washington/";
-            },},{id: "zines-aero-plane",
-          title: 'Aero-Plane!',
-          description: "2015",
+            },},{id: "zines-you-belong-here",
+          title: 'you belong here',
+          description: "2024",
           section: "Zines",handler: () => {
               window.location.href = "/zines/04_you-belong/";
             },},{id: "zines-aero-plane",
