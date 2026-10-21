@@ -1,16 +1,15 @@
 ---
 layout: page
-title: Aero-Plane!
-description: 2015
-img: assets/img/zines/aeroplane/aeroplane_01.png
+title: you belong here
+description: 2024
+img: assets/img/zines/belong/youbelong/04.png
 importance: 1
 category: work
-related_publications: true
-img: /assets/img/
+related_publications: false
 ---
 
-_Aero-Plane! (the invention of flight) a Crisis of Extraordinary Gravity OR: How to Die in Style_ was a farce I wrote and produced for the 2015 Chicago Fringe Festival. This zine was our promotional come-to-our-show handout. 
-
+I made _you belong here_ as a thank-you handout for community members at the Neos' Donor Night, 
+2024. 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/zines/aeroplane/cover.png" title="the cover" class="img-fluid rounded z-depth-1" %}
