@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a theater maker/arts worker/educator based in Chicago. Currently I am the Artistic Director of [The Neo-Futurists](https://www.neofuturists.org/), where I have created and premiered new work since 2018.
+I am a theater maker/arts worker/educator based in Chicago. Most recently I served as the Artistic Director of [The Neo-Futurists](https://www.neofuturists.org/), where I have created and premiered new work since 2018.
 
 My primary practice is ensemble-generated new works rooted in the lived experiences of the performers. I emphasize movement, social engagement, and live music to create dynamic, provocative experiences. 
 
