@@ -439,11 +439,16 @@ ninja.data = [{
           description: "2014-15",
           section: "Projects",handler: () => {
               window.location.href = "/projects/06_TheHungerArtist/";
-            },},{id: "zines-project-1",
-          title: 'project 1',
-          description: "with background image",
+            },},{id: "zines-aero-plane",
+          title: 'Aero-Plane!',
+          description: "2015",
           section: "Zines",handler: () => {
-              window.location.href = "/zines/1_project/";
+              window.location.href = "/zines/09_aeroplane/";
+            },},{id: "zines-aero-plane",
+          title: 'Aero-Plane!',
+          description: "2015",
+          section: "Zines",handler: () => {
+              window.location.href = "/zines/09_aeroplane/";
             },},{
         id: 'social-email',
         title: 'email',
