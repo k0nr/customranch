@@ -439,9 +439,9 @@ ninja.data = [{
           description: "2014-15",
           section: "Projects",handler: () => {
               window.location.href = "/projects/06_TheHungerArtist/";
-            },},{id: "zines-aero-plane",
-          title: 'Aero-Plane!',
-          description: "2015",
+            },},{id: "zines-poems-i-wrote-during-the-show",
+          title: 'Poems I Wrote During the Show',
+          description: "2026",
           section: "Zines",handler: () => {
               window.location.href = "/zines/01_poems-i-wrote/";
             },},{id: "zines-someone-else-39-s-kitchen",
