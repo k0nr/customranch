@@ -3,7 +3,7 @@ layout: page
 title: you belong here
 description: 2024
 img: assets/img/zines/youbelong/04.png
-importance: 1
+importance: 4
 category: work
 related_publications: false
 ---
